@@ -8,7 +8,7 @@ const CarrouselHome = () => {
                 <img
                     className='d-block w-100'
                     style={{ maxHeight: "500px", objectFit: 'cover' }}
-                    src="src/assets/images/imagen1.jpg"
+                    src="https://img.freepik.com/foto-gratis/hombre-joven-que-elige-ropa-estante-sala-exposicion_23-2148175631.jpg?size=626&ext=jpg"
                     alt="First Slide"
                 />
                 <Carousel.Caption>
@@ -21,7 +21,7 @@ const CarrouselHome = () => {
                 <img
                     className='d-block w-100'
                     style={{ maxHeight: "500px", objectFit: 'cover' }}
-                    src="src/assets/images/imagen2.jpg"
+                    src="https://img.freepik.com/fotos-premium/ropa-vintage-perchas-tienda_23-2150082944.jpg?w=740"
                     alt="Second Slide"
                 />
                 <Carousel.Caption>
@@ -34,7 +34,7 @@ const CarrouselHome = () => {
                 <img
                     className='d-block w-100'
                     style={{ maxHeight: "500px", objectFit: 'cover' }}
-                    src="src/assets/images/imagen3.jpg"
+                    src="https://www.hogarmania.com/archivos/202106/por-que-lavar-desinfectar-ropa-segunda-mano-consejos-XxXx80.jpg"
                     alt="Third Slide"
                 />
                 <Carousel.Caption>
